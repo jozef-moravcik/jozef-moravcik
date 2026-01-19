@@ -8,7 +8,7 @@ To make it easier for you to find these projects, here are the links to the indi
 - [heating-controller](https://github.com/jozef-moravcik-homeassistant/heating-controller) - Heating Controller
 
 #### ⚡GoodWe SEC1000/S
-- [heating-controller](https://github.com/jozef-moravcik-homeassistant/GoodWe-SEC1000S) - GoodWe SEC1000/S
+- [GoodWe SEC1000/S](https://github.com/jozef-moravcik-homeassistant/GoodWe-SEC1000S) - GoodWe SEC1000/S
 
 
 - 📫 How to reach me:
