@@ -8,11 +8,12 @@ To make it easier for you to find these projects, here are the links to the indi
 
 #### ⚡ [GoodWe SEC1000 Integration](https://github.com/jozef-moravcik-homeassistant/GoodWe-SEC1000S)
 
-
+---------------------------------------------------------
 #### 💡 How to reach me:
 - ☎️ phone: +421 905 410 763
 - ✉️ email: jozef.moravcik@moravcik.eu
 
+---------------------------------------------------------
 #### ℹ️ Additional Info:
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
