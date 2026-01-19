@@ -4,17 +4,13 @@ To make it easier for you to find these projects, here are the links to the indi
 
 ### 🏠 Home Assistant HACS Integrations
 
-#### ♨️ Heating Controller Integration
-- [heating-controller](https://github.com/jozef-moravcik-homeassistant/heating-controller)
+#### ♨️ [Heating Controller Integration](https://github.com/jozef-moravcik-homeassistant/heating-controller)
 
-#### ⚡GoodWe SEC1000/S Integration
-- [GoodWe SEC1000/S](https://github.com/jozef-moravcik-homeassistant/GoodWe-SEC1000S)
-
-#### ⚡[GoodWe SEC1000/S](https://github.com/jozef-moravcik-homeassistant/GoodWe-SEC1000S)
+#### ⚡[GoodWe SEC1000 Integration](https://github.com/jozef-moravcik-homeassistant/GoodWe-SEC1000S)
 
 - 📫 How to reach me:
-    phone: +421 905 410 763
-    email: jozef.moravcik@moravcik.eu
+      phone: +421 905 410 763
+      email: jozef.moravcik@moravcik.eu
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
