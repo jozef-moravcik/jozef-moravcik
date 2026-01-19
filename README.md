@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 My projects are / will be stored in several categories according to areas (for example, HomeAssistant, IOT, C++, Hardware Development, etc.), for these categories I have created organizations in GitHub in which the project repositories are located.
 To make it easier for you to find these projects, here are the links to the individual organizations (project categories):
 
@@ -20,4 +20,4 @@ To make it easier for you to find these projects, here are the links to the indi
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
--->
+---------------------------------------------------------
