@@ -8,6 +8,8 @@ To make it easier for you to find these projects, here are the links to the indi
 
 #### ♨️ [Heating Controller Integration](https://github.com/jozef-moravcik-homeassistant/heating-controller)
 
+#### ♨️ [Heating Coil_Controller Integration](https://github.com/jozef-moravcik-homeassistant/heating-coil-controller)
+
 #### ⚡ [GoodWe SEC1000 Integration](https://github.com/jozef-moravcik-homeassistant/GoodWe-SEC1000S)
 
 ---------------------------------------------------------
