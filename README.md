@@ -4,6 +4,9 @@ To make it easier for you to find these projects, here are the links to the indi
 
 ### 🏠 Home Assistant HACS Integrations
 
+
+#### ⚡ [Power Meters JSY family](https://github.com/jozef-moravcik-homeassistant/power-meter-jsy)
+
 #### ⚡ [OKTE - Slovak Energy Market Integration](https://github.com/jozef-moravcik-homeassistant/okte)
 
 #### ♨️ [Heating Controller Integration](https://github.com/jozef-moravcik-homeassistant/heating-controller)
